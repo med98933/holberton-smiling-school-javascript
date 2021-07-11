@@ -1,6 +1,6 @@
 # Holberton-smiling-school-javascript
 
-<a href="https://holbertonschool.com"><img src="images/holberton.png" align="right" width="200" height="200" alt="cherry72" border="0"></a>
+<a href="https://holbertonschool.com"><img src="images/holberton.png" align="right" width="200" height="200"border="0"></a>
  use all HTML/CSS/Accessibility/Responsive design/Bootstrap/Javascript knowledges that you learned previously.
 
 
